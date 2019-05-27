@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EvolutionBasedRecurrendNeuralNetwork.iml" filepath="$PROJECT_DIR$/EvolutionBasedRecurrendNeuralNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvolutionBasedRecurrendNeuralNetwork.iml" filepath="$PROJECT_DIR$/EvolutionBasedRecurrendNeuralNetwork.iml" group="EvolutionBasedRecurrendNeuralNetwork" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Evolution/EvolutionBasedRecurrendNeuralNetwork-Evolution.iml" filepath="$PROJECT_DIR$/.idea/modules/Evolution/EvolutionBasedRecurrendNeuralNetwork-Evolution.iml" group="EvolutionBasedRecurrendNeuralNetwork/Evolution" />
     </modules>
   </component>
 </project>

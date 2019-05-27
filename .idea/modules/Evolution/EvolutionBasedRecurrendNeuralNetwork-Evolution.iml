@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Evolution" external.linked.project.path="$MODULE_DIR$/../../../Evolution" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="EvolutionBasedRecurrendNeuralNetwork" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../Evolution/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../Evolution/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../Evolution">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Evolution/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../Evolution/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../Evolution/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../Evolution/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Gradle: json-20171018">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../Evolution/libs/json-20171018.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
